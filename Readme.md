@@ -1,4 +1,4 @@
-# Ejercicio 1. Añadir y eliminar elementos de una lista (Next)
+# Ejercicio 1. Añadir y eliminar elementos de una lista (React)
 Requisitos: Tener instalado Nodejs (v16.x.x o superior). Tener instalado npm.
 
   - Duración máxima: 40 minutos
